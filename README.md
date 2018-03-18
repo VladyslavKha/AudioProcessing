@@ -1,6 +1,9 @@
+# AudioProcessing
+Press on the button
+
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/VladyslavKha/AudioProcessing/master)
 
-# AudioProcessing
+**OR**
 
 1) Open https://mybinder.org/
 
